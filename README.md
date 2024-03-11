@@ -131,7 +131,8 @@ public class MainActivity extends AppCompatActivity
 ```
 
 ## OUTPUT
-![1](https://github.com/21002624/GUI-components/assets/113762183/335e4d61-7354-49ad-afaa-c853f2e2b726)
+![3](https://github.com/21002624/GUI-components/assets/113762183/0fdd43f1-3938-4f08-a52c-57b79cba8087)
+
 ![2](https://github.com/21002624/GUI-components/assets/113762183/84766609-cf44-49c5-99a9-cdeced2e668d)
 
 ## RESULT
